@@ -35,6 +35,7 @@ A basic backend system built using Node.js, Express, MongoDB, and JWT authentica
 src/
 ├── app.js
 ├── index.js
+├── package.json
 ├── db/
 │   └── index.js
 ├── controllers/
